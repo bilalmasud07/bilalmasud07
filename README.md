@@ -3,4 +3,3 @@
 - 🌱 Data Engineer 💓. 
 - 💞️ I’m looking to collaborate on data related projects, that's where my passion is.
 - 📫 You can reach me via linkedIn : https://www.linkedin.com/in/bilalmsd07/
-- 
